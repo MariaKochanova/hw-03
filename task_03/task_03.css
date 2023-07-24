@@ -1,0 +1,23 @@
+.input {
+    width: 180px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    border: none;
+    background-color: rgb(102, 216, 146);
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.container img {
+    max-width: 100%;
+}
